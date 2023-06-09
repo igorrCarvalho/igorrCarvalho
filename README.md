@@ -49,6 +49,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Igor-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Igor-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Igor-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Igor-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
