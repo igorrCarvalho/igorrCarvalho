@@ -13,7 +13,7 @@
 
 <div>
   <p>
-    I'm from Belo Horizonte, Brazil. I'm a fullStack developer currently studying and searching for a job. At the moment i am studying at Trybe, i've just finished the Back End module. I'm learning more about C#, Python and Django. My favorite code language is Python until now.
+    I'm from Belo Horizonte, Brazil. I'm a fullStack developer currently working at [Logspace](https://logspace.ai/). I'm learning more about C#, Python and Django. My favorite code language is Python until now.
   </p>
 </div>
 
