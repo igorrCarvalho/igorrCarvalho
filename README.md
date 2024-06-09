@@ -30,7 +30,7 @@
 
 ##
 
-### Languages i use 👨‍💻
+### Languages 👨‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="Igor-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -45,7 +45,7 @@
 
 ##
 
-### Frameworks i use 👨‍💻
+### Frameworks 👨‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -57,7 +57,7 @@
 
 ##
 
-### Databases i use 👨‍💻
+### Databases 👨‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="Igor-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
