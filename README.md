@@ -1,4 +1,4 @@
-### Hi there! I'm Igor 👋
+### Hey there! I'm Igor 👋
 
 <br>
 
