@@ -10,7 +10,7 @@
 
 <div>
   <p>
-    I'm from Belo Horizonte, Brazil. I'm a fullstack software developer learning more about Kotlin, Python and Django. My favorite code language is Python until now.
+    I’m a full-stack software developer from Belo Horizonte, Brazil, currently learning Kotlin, Python, and Django. So far, Python is my favorite programming language.
   </p>
 </div>
 
