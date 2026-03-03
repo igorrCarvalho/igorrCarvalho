@@ -3,8 +3,7 @@
 <br>
 
 <div>
-<img height="180em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=igorrCarvalho&show_icons=true&theme=radical" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=igorrCarvalho&theme=radical)](https://git.io/streak-stats)
 </div>
 
 ##
