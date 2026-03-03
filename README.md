@@ -2,9 +2,9 @@
 
 <br>
 
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=igorrCarvalho&theme=radical)](https://git.io/streak-stats)
-</div>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=igorrCarvalho&theme=radical" />
+</a>
 
 ##
 
