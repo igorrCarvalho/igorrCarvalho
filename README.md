@@ -2,9 +2,9 @@
 
 <br>
 
-<a href="https://git.io/streak-stats">
+<div>
   <img src="https://streak-stats.demolab.com?user=igorrCarvalho&theme=radical" />
-</a>
+</div>
 
 ##
 
