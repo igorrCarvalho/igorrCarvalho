@@ -1,13 +1,4 @@
 ### Hey there! I'm Igor 👋
-
-<br>
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=igorrCarvalho&theme=radical" />
-</div>
-
-##
-
 <div>
   <p>
     I’m a full-stack software developer from Belo Horizonte, Brazil, currently learning Kotlin, Python, and Django. So far, Python is my favorite programming language.
