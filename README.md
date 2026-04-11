@@ -1,7 +1,7 @@
-### Hey there! I'm Igor 👋
+### I'm Igor 👋
 <div>
   <p>
-    I’m a full-stack software developer from Belo Horizonte, Brazil, currently learning Kotlin, Python, and Django. So far, Python is my favorite programming language.
+    A full-stack software developer from Belo Horizonte, Brazil, currently learning Kotlin, Python, and Django. So far, Python is my favorite programming language.
   </p>
 </div>
 
